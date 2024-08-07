@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>html on Hack with Abby</title>
-    <link>https://hugoblogapp.com/categories/html/</link>
+    <link>https://blog.hackwithabby.xyz/categories/html/</link>
     <description>Recent content in html on Hack with Abby</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Nov 2023 16:55:24 +0100</lastBuildDate><atom:link href="https://hugoblogapp.com/categories/html/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Nov 2023 16:55:24 +0100</lastBuildDate><atom:link href="https://blog.hackwithabby.xyz/categories/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Fourth Post</title>
-      <link>https://hugoblogapp.com/my-fourth-post/</link>
+      <link>https://blog.hackwithabby.xyz/my-fourth-post/</link>
       <pubDate>Wed, 22 Nov 2023 16:55:24 +0100</pubDate>
       
-      <guid>https://hugoblogapp.com/my-fourth-post/</guid>
+      <guid>https://blog.hackwithabby.xyz/my-fourth-post/</guid>
       <description>Test Content</description>
     </item>
     
